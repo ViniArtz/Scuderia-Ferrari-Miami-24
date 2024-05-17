@@ -145,7 +145,7 @@ transition: 0.3s;
     background: url(../images/sky.jpg)  center/100%;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
     .about-item {
         text-align: center;
     }
